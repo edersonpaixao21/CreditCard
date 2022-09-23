@@ -1,0 +1,10 @@
+.card-info-container {
+  @apply w-full bg-center rounded-xl mb-6 p-8;
+  height: 330px;
+  background-image: url("../../assets/background.png");
+}
+
+.card-info {
+  @apply bg-white w-full h-full rounded-3xl p-8 bg-opacity-10;
+  @apply border border-gray-500 shadow-lg text-white;
+}

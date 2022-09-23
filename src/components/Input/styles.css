@@ -1,0 +1,9 @@
+.form-input {
+  @apply rounded-lg border border-gray-700 px-4 bg-gray-900 text-gray-200;
+  @apply py-3;
+  @apply placeholder-gray-600;
+}
+
+.form-label {
+  @apply font-semibold tracking-wide mb-2 text-gray-200;
+}
